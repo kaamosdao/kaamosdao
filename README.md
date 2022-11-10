@@ -1,15 +1,10 @@
 ### Hello there 👋 I'm Alexander!
-I'm junior frontend-developer.
-My technologies skills:
-Javascript/Typesctipt
-React
-Redux-toolkit
-HTML
-CSS
+#### I'm junior frontend-developer.
+My technologies skills: Javascript/Typesctipt, React, Redux-toolkit, HTML, CSS.
 
-[![Codewars Badge](https://www.codewars.com/users/kaamosdao/badges/small)](https://www.codewars.com/users/kaamosdao)
 ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaamosdao&show_icons=true&theme=dracula&count_private=true&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Codewars Badge](https://www.codewars.com/users/kaamosdao/badges/small)](https://www.codewars.com/users/kaamosdao)
 
 ### My contacts: 
 #### Telegram: <a href="https://t.me/kaamosda">https://t.me/kaamosdao</a>
