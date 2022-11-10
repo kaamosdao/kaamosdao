@@ -7,9 +7,9 @@ Redux-toolkit
 HTML
 CSS
 
-[![Codewars Badge](https://www.codewars.com/users/kaamosdao/badges/small)
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaamosdao&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Codewars Badge](https://www.codewars.com/users/kaamosdao/badges/small)](https://www.codewars.com/users/kaamosdao)
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaamosdao&show_icons=true&theme=dracula&count_private=true&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My contacts: 
 #### Telegram: <a href="https://t.me/kaamosda">https://t.me/kaamosdao</a>
