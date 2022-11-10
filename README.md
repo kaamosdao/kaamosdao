@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hello there 👋 I'm Alexander!
+I'm junior frontend-developer.
+My technologies skills:
+Javascript/Typesctipt
+React
+Redux-toolkit
+HTML
+CSS
 
+https://www.codewars.com/users/kaamosdao/badges/small
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaamosdao&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### My contacts: 
+#### Telegram: <a href="https://t.me/kaamosda">https://t.me/kaamosdao</a>
+
+#### Resume (CV): 
+<a href="https://cv.hexlet.io/resumes/1544">https://cv.hexlet.io/resumes/1544</a><br>
 <!--
 **kaamosdao/kaamosdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
