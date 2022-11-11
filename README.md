@@ -2,8 +2,7 @@
 
 #### [![Codewars Badge](https://www.codewars.com/users/kaamosdao/badges/small)](https://www.codewars.com/users/kaamosdao)
 
-### I'm junior frontend-developer. 
-#
+### I'm junior frontend-developer. Currently working on OpenSource project [Runit - environment for writing and executing code.](https://github.com/Hexlet/runit)
 ## Languages and Tools:
 
 <div align="center">
@@ -21,13 +20,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </div>
 
-#
-
 ## My Github Stats:
 
-#### ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaamosdao&show_icons=true&theme=dracula&count_private=true&hide=stars)
-
-#
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaamosdao&show_icons=true&theme=dracula&count_private=true&hide=stars"/>
+</div>
 
 ## My contacts:
 
