@@ -3,7 +3,7 @@
 #### [![Codewars Badge](https://www.codewars.com/users/kaamosdao/badges/small)](https://www.codewars.com/users/kaamosdao)
 
 #### I'm junior frontend-developer.
-#### Currently working on OpenSource project [Runit - environment for writing and executing code.](https://github.com/Hexlet/runit)
+#### Currently interning for [Salt & Pepper](https://snp.agency/en)
 ## Languages and Tools:
 
 <div align="center">
