@@ -3,7 +3,9 @@
 #### [![Codewars Badge](https://www.codewars.com/users/kaamosdao/badges/small)](https://www.codewars.com/users/kaamosdao)
 
 #### I'm junior frontend-developer.
+
 #### Currently interning for [Salt & Pepper](https://snp.agency/en)
+
 ## Languages and Tools:
 
 <div align="center">
@@ -11,14 +13,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" title="threejs" alt="threejs " width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  title="sass" alt="sass" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux"  alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </div>
 
 ## My Github Stats:
@@ -29,9 +31,10 @@
 
 ## My contacts:
 
-#### Telegram: <a href="https://t.me/kaamosda">https://t.me/kaamosdao</a>
+#### Telegram: <a href="https://t.me/kaamosdao">https://t.me/kaamosdao</a>
 
-#### Resume (CV):  <a href="https://cv.hexlet.io/resumes/1544">https://cv.hexlet.io/resumes/1544</a><br>
+#### Resume (CV): <a href="https://cv.hexlet.io/resumes/1544">https://cv.hexlet.io/resumes/1544</a><br>
+
 <!--
 **kaamosdao/kaamosdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
