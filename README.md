@@ -4,7 +4,7 @@
 
 #### I'm junior frontend-developer.
 
-#### Currently interning for [Salt & Pepper](https://snp.agency/en)
+#### Currently interning for [SALT AND PEPPER](https://snp.agency/en)
 
 ## Languages and Tools:
 
@@ -33,7 +33,7 @@
 
 #### Telegram: <a href="https://t.me/kaamosdao">https://t.me/kaamosdao</a>
 
-#### Resume (CV): <a href="https://cv.hexlet.io/resumes/1544">https://cv.hexlet.io/resumes/1544</a><br>
+#### Twitter: <a href="https://twitter.com/kaamosdao">https://twitter.com/kaamosdao</a><br>
 
 <!--
 **kaamosdao/kaamosdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
