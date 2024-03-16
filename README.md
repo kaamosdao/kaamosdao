@@ -2,9 +2,7 @@
 
 #### [![Codewars Badge](https://www.codewars.com/users/kaamosdao/badges/small)](https://www.codewars.com/users/kaamosdao)
 
-#### I'm junior frontend-developer.
-
-#### Currently interning for [SALT AND PEPPER](https://snp.agency/en)
+#### I'm frontend-developer, Currently working for [SALT AND PEPPER](https://snp.agency/en)
 
 ## Languages and Tools:
 
